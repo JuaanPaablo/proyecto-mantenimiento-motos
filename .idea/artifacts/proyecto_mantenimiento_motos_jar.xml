@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="proyecto-mantenimiento-motos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/proyecto_mantenimiento_motos_jar</output-path>
+    <root id="archive" name="proyecto-mantenimiento-motos.jar">
+      <element id="module-output" name="proyecto-mantenimiento-motos" />
+    </root>
+  </artifact>
+</component>
